@@ -1,0 +1,37 @@
+V1.8 Update
+
+Plans:
+
+- Add 1x1 drill (OP)
+
+
+- Mod laser turret
+
+
+- Mod mech damage?
+
+
+Completed:
+
+- 1x1 drill (OP)
+
+
+- Meltdown turrt (laser turret) is a lot stronger and free to craft {V2}
+
+
+- Modded alpha mech (OP)
+
+
+- ForceProjector is stronger and free to craft {V2}
+
+
+- Mender is alot stronger and free to craft {V1}
+
+
+- PowerNode has very long range, lots of health, and can connect to more than 3 objects (150 now) {V1}
+
+
+- Overdrive projector has a lot of health, higher speed boost, range, free to craft, and only uses copper for boost {V1}
+
+
+- Phase conveyor has very long range, a lot bigger item capacity, free to craft {V1}

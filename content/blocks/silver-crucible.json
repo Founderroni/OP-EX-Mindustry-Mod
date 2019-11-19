@@ -1,0 +1,21 @@
+{
+	"type": "GenericCrafter",
+	"name": "Silver Crucible",
+	"description": "Melts silver down into molten silver.",
+	"liquidCapacity": 301,
+	"outputLiquid": {"liquid": "molten-silver", "amount": 20.5},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 0.1,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.1,
+		"item": "silver"
+	},
+	"requirements": [],
+	"category": "crafting",
+	"research": "graphite-press",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

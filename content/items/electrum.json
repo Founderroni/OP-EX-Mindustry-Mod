@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Electrum",
+	"description": "An alloy of silver and gold. Doesn't have much of a use since I removed it from all of the crafting recipes in this mod.",
+	"cost": 2.5,
+	"color": "dcd16b"
+}

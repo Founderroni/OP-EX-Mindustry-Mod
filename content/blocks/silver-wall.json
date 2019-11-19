@@ -1,0 +1,10 @@
+{
+	"name": "Silver Wall",
+	"description": "A wall made of silver. Very very strong thanks to my special editing powers.",
+	"type": "Wall",
+	"health": 99999999998,
+	"size": 2,
+	"requirements": [],
+	"category": "defense",
+	"research": "copper-wall"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Infini-Vault",
+	"description": "Shocking OP way of storing items. Has ALOT and I mean ALOT of storage.",
+	"type": "Vault",
+	"itemCapacity": 9999999999999,
+	"hasItems": true,
+	"health": 9999999999,
+	"size": 3,
+	"requirements": [],
+	"category": "effect",
+	"research": "graphite-press"
+}

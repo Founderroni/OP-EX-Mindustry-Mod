@@ -1,0 +1,9 @@
+{
+	"type": "Conveyor",
+	"name": "OP conveyor",
+	"description": "OP conveyor. Speed is insane.",
+	"requirements": [],
+	"category": "distribution",
+	"speed": 120,
+	"research": "graphite-press"
+}

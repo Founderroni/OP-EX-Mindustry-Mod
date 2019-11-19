@@ -1,0 +1,11 @@
+{
+	"name": "OP Drill",
+	"description": "A very strange OP drill.",
+	"type": "Drill",
+	"size": 3,
+	"tier": 8,
+	"drillTime": 0.1,
+	"requirements": [],
+	"category": "production",
+	"research": "graphite-press"
+}

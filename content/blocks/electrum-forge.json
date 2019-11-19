@@ -1,0 +1,30 @@
+{
+	"type": "GenericSmelter",
+	"name": "Electrum Forge",
+	"description": "Combines molten silver and gold powder to produce electrum. Has high amounts of liquid capacity and outputs 77 electrum.",
+	"liquidCapacity": 9999999,
+	"outputItem": {"item": "electrum", "amount": 77},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 1,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.1,
+		"items": {
+			"items": [
+				{ "item": "gold-powder", "amount": 1 }
+			]
+		},
+		"liquid": {
+			"liquid": "molten-silver",
+			"amount": 1.0
+		}
+	},
+	"requirements": [],
+	"category": "crafting",
+	"research": "silver-crucible",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

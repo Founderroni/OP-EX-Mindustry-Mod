@@ -1,0 +1,12 @@
+{
+	"craftTime": 0.1,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "coal", "amount": 1 }
+			]
+		},
+	},
+	"requirements": [],
+	"outputItem": {"item": "silicon", "amount": 665}
+}

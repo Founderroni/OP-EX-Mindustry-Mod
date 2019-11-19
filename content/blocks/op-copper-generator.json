@@ -1,0 +1,21 @@
+{
+	"type": "SingleTypeGenerator",
+	"name": "OP Copper Generator",
+	"description": "Magically produces ALOT of power from copper. Don't ask.",
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"itemDuration": 100,
+	"powerProduction": 9999999.99,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "copper", "amount": 1 }
+			],
+			"optional": true
+		}
+	},
+	"requirements": [],
+	"category": "power",
+	"research": "graphite-press"
+}

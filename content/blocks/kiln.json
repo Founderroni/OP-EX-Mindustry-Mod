@@ -1,0 +1,12 @@
+{
+	"craftTime": 0.1,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "sand", "amount": 1 }
+			]
+		},
+	},
+	"requirements": [],
+	"outputItem": {"item": "metaglass", "amount": 650}
+}

@@ -15,4 +15,4 @@ Update V1.8 {The Mender Update}:
 
 Creator: Founder
 
-Discord: HNU Founder.lua#5046
+Discord: HNU Founder#5046

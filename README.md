@@ -4,7 +4,7 @@ My OverPowered Mindustry Mod
 
 [THIS MOD HAS BEEN DISCONTINUED FOR NOW]
 
-Description/Info: I took Anuke's example mod and removed a few items like the silver turret. I then edited most-to-all the files to make everything more overpowered and easier to obtain (everything in the mod is now free to craft). Some people would kind of see this like a cheat mod, idk it's your opinion.
+Description/Info: A mod that adds OP things and changes a few existing things (like a turret) and makes it OP
 
 Update V1.8 {The Mender Update}:
 
@@ -14,5 +14,3 @@ Update V1.8 {The Mender Update}:
 
 
 Creator: Founder
-
-Discord: HNU Founder#5046

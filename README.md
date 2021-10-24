@@ -13,4 +13,5 @@ Update V1.8 {The Mender Update}:
 - Updated to V1.8
 
 
-Creator: Founder
+Creator: Founder#8300
+(me)
